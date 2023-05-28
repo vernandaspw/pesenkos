@@ -34,9 +34,7 @@
                 <div class="row gx-5 align-items-center justify-content-center justify-content-lg-between">
                     <div class="col-12 col-lg-5">
                         <h2 class="display-4 lh-1 mb-4">Tentang PesenKos.com</h2>
-                        <p class="lead fw-normal text-muted mb-5 mb-lg-0">Lorem ipsum dolor sit amet consectetur adipisicing
-                            elit. Similique iste vitae quos illum, quam aut odio tenetur dolorem debitis labore atque,
-                            assumenda omnis eaque veniam facilis nesciunt quisquam. Facere, doloribus.</p>
+                        <p class="lead fw-normal text-muted mb-5 mb-lg-0">PesenKos Merupakan Platform pintar Mencari kos dan Mengelola Kos, Pencatatan Pendapatan, Pengeluaran Kos</p>
                     </div>
                     <div class="col-sm-8 col-md-6">
                         <div class="px-5 px-sm-0"><img class="img-fluid rounded-circle"
@@ -50,10 +48,7 @@
                 <div class="row gx-5 align-items-center justify-content-center justify-content-lg-between">
                     <div class="col-12 col-lg-6">
                         <h2 class="display-4 lh-1 mb-4">Visi</h2>
-                        <p class="lead fw-normal text-muted mb-5 mb-lg-0">Lorem ipsum dolor sit, amet consectetur
-                            adipisicing elit. Ea, dolor. Aliquam tempora eius animi assumenda qui ipsa architecto
-                            reprehenderit expedita molestiae, voluptates, delectus autem eos optio totam quisquam, quidem
-                            corporis.</p>
+                        <p class="lead fw-normal text-muted mb-5 mb-lg-0">Menjadi Penyedia Layanan kosan mahasiswa terkemuka yang memprioritaskan kenyamanan, keamanan, dan kemudahan akses bagi para mahasiswa dalam mencari tempat tinggal yang sesuai dengan kebutuhan.</p>
                     </div>
                     <div class="col-12 col-lg-6">
                         <h2 class="display-4 lh-1 mb-4">Misi</h2>
