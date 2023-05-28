@@ -100,7 +100,7 @@
                                         <img src="{{ asset('img/aldi.jpg') }}" class="rounded-circle" width="200" height="200" alt="">
                                     </div>
                                     <h5 class="card-title mt-4">Ahmad Renaldi Maulana</h5>
-                                    <h6 class="card-subtitle mb-2 text-body-secondary">Job</h6>
+                                    <h6 class="card-subtitle mb-2 text-body-secondary">Marketing</h6>
 
 
                                     <a href="https://instagram.com/reynaldii_0903?igshid=MzNlNGNkZWQ4Mg==" class="card-link">
