@@ -102,8 +102,8 @@
     <!-- Bootstrap core JS-->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
     <!-- Core theme JS-->
-    <script src="{{ asset('page/js/scripts.js') }}"></script>
 
+    <script src="{{ asset('page/js/scripts.js') }}"></script>
     <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
     <!-- * *                               SB Forms JS                               * *-->
     <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
@@ -114,7 +114,7 @@
     <!-- MDB -->
     {{-- <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/6.3.0/mdb.min.js"></script> --}}
 
-    <script src="{{ asset('tabler/dist/js/tabler.min.js') }}"></script>
+    {{-- <script src="{{ asset('tabler/dist/js/tabler.min.js') }}"></script>
     <script src="{{ asset('tabler/dist/js/demo-theme.min.js') }}"></script>
     <!-- Libs JS -->
     <script src="{{ asset('tabler/dist/libs/apexcharts/dist/apexcharts.min.js') }}" defer></script>
@@ -123,7 +123,7 @@
     <script src="{{ asset('tabler/dist/libs/jsvectormap/dist/maps/world-merc.js') }}" defer></script>
     <!-- Tabler Core -->
     <script src="{{ asset('tabler/dist/js/tabler.min.js') }}" defer></script>
-    <script src="{{ asset('tabler/dist/js/demo.min.js') }}" defer></script>
+    <script src="{{ asset('tabler/dist/js/demo.min.js') }}" defer></script> --}}
 
     <script src="{{ asset('vendor/sweatalert2/sweetalert2.all.min.js') }}"></script>
     <script>

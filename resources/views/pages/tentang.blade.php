@@ -56,7 +56,7 @@
                             corporis.</p>
                     </div>
                     <div class="col-12 col-lg-6">
-                        <h2 class="display-4 lh-1 mb-4">Visi</h2>
+                        <h2 class="display-4 lh-1 mb-4">Misi</h2>
                         <p class="lead fw-normal text-muted mb-5 mb-lg-0">Lorem ipsum dolor sit amet consectetur adipisicing
                             elit. Earum ullam dolorum officiis corrupti velit, ea laboriosam nam! Aut itaque esse dicta
                             facere ipsum? Ad, velit iste quod earum temporibus dicta.</p>
